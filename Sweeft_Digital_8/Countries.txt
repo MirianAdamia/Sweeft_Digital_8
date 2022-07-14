@@ -1,0 +1,250 @@
+Region - Oceania, Subregion - Micronesia, Population - 168783, Area - 549,0, Latlng -  13,46666666 144,78333333
+Region - Asia, Subregion - Southern Asia, Population - 164689383, Area - 147570,0, Latlng -  24,0 90,0
+Region - Oceania, Subregion - Polynesia, Population - 18100, Area - 236,0, Latlng -  -21,23333333 -159,76666666
+Region - Asia, Subregion - Southern Asia, Population - 29136808, Area - 147181,0, Latlng -  28,0 84,0
+Region - Europe, Subregion - Western Europe, Population - 39244, Area - 2,02, Latlng -  43,73333333 7,4
+Region - Asia, Subregion - Western Asia, Population - 84339067, Area - 783562,0, Latlng -  39,0 35,0
+Region - Americas, Subregion - Caribbean, Population - 4255, Area - 21,0, Latlng -  18,5 -63,41666666
+Region - Americas, Subregion - Caribbean, Population - 2961161, Area - 10991,0, Latlng -  18,25 -77,5
+Region - Europe, Subregion - Southern Europe, Population - 77265, Area - 468,0, Latlng -  42,5 1,5
+Region - Africa, Subregion - Northern Africa, Population - 6871287, Area - 1759540,0, Latlng -  25,0 17,0
+Region - Europe, Subregion - Northern Europe, Population - 100800, Area - 116,0, Latlng -  49,25 -2,16666666
+Region - Europe, Subregion - Southern Europe, Population - 525285, Area - 316,0, Latlng -  35,83333333 14,58333333
+Region - Americas, Subregion - South America, Population - 11673029, Area - 1098581,0, Latlng -  -17,0 -65,0
+Region - Africa, Subregion - Eastern Africa, Population - 1265740, Area - 2040,0, Latlng -  -20,28333333 57,55
+Region - Americas, Subregion - Caribbean, Population - 3194034, Area - 8870,0, Latlng -  18,25 -66,5
+Region - Europe, Subregion - Western Europe, Population - 67391582, Area - 551695,0, Latlng -  46,0 2,0
+Region - Europe, Subregion - Western Europe, Population - 632275, Area - 2586,0, Latlng -  49,75 6,16666666
+Region - Europe, Subregion - Southeast Europe, Population - 1775378, Area - 10908,0, Latlng -  42,666667 21,166667
+Region - Africa, Subregion - Eastern Africa, Population - 27691019, Area - 587041,0, Latlng -  -20,0 47,0
+Region - Asia, Subregion - Southern Asia, Population - 220892331, Area - 881912,0, Latlng -  30,0 70,0
+Region - Africa, Subregion - Eastern Africa, Population - 19129955, Area - 118484,0, Latlng -  -13,5 34,0
+Region - Europe, Subregion - Central Europe, Population - 2100126, Area - 20273,0, Latlng -  46,11666666 14,81666666
+Region - Africa, Subregion - Southern Africa, Population - 1160164, Area - 17364,0, Latlng -  -26,5 31,5
+Region - Americas, Subregion - North America, Population - 329484123, Area - 9372610,0, Latlng -  38,0 -97,0
+Region - Oceania, Subregion - Micronesia, Population - 119446, Area - 811,0, Latlng -  1,41666666 173,0
+Region - Asia, Subregion - Western Asia, Population - 10110116, Area - 86600,0, Latlng -  40,5 47,5
+Region - Africa, Subregion - Eastern Africa, Population - 18383956, Area - 752612,0, Latlng -  -15,0 30,0
+Region - Africa, Subregion - Eastern Africa, Population - 53771300, Area - 580367,0, Latlng -  1,0 38,0
+Region - Asia, Subregion - Western Asia, Population - 4270563, Area - 17818,0, Latlng -  29,5 45,75
+Region - Asia, Subregion - Central Asia, Population - 18754440, Area - 2724900,0, Latlng -  48,0 68,0
+Region - Europe, Subregion - Northern Europe, Population - 1901548, Area - 64559,0, Latlng -  57,0 25,0
+Region - Africa, Subregion - Western Africa, Population - 7976985, Area - 71740,0, Latlng -  8,5 -11,5
+Region - Americas, Subregion - Caribbean, Population - 53192, Area - 261,0, Latlng -  17,33333333 -62,75
+Region - Americas, Subregion - Central America, Population - 397621, Area - 22966,0, Latlng -  17,25 -88,75
+Region - Americas, Subregion - Caribbean, Population - 378243, Area - 1128,0, Latlng -  14,666667 -61,0
+Region - Europe, Subregion - Southeast Europe, Population - 19286123, Area - 238391,0, Latlng -  46,0 25,0
+Region - Americas, Subregion - Caribbean, Population - 30237, Area - 151,0, Latlng -  18,431383 -64,62305
+Region - Oceania, Subregion - Australia and New Zealand, Population - 5084300, Area - 270467,0, Latlng -  -41,0 174,0
+Region - Americas, Subregion - South America, Population - 212559409, Area - 8515767,0, Latlng -  -10,0 -55,0
+Region - Africa, Subregion - Middle Africa, Population - 4829764, Area - 622984,0, Latlng -  7,0 21,0
+Region - Oceania, Subregion - Micronesia, Population - 59194, Area - 181,0, Latlng -  9,0 168,0
+Region - Antarctic, Subregion - , Population - 400, Area - 7747,0, Latlng -  -49,25 69,167
+Region - Oceania, Subregion - Polynesia, Population - 11750, Area - 142,0, Latlng -  -13,3 -176,2
+Region - Europe, Subregion - Eastern Europe, Population - 144104080, Area - 17098242, Latlng -  60,0 100,0
+Region - Americas, Subregion - Central America, Population - 4314768, Area - 75417,0, Latlng -  9,0 -80,0
+Region - Asia, Subregion - South-Eastern Asia, Population - 437483, Area - 5765,0, Latlng -  4,5 114,66666666
+Region - Europe, Subregion - Southern Europe, Population - 33691, Area - 6,0, Latlng -  36,13333333 -5,35
+Region - Asia, Subregion - South-Eastern Asia, Population - 32365998, Area - 330803,0, Latlng -  2,5 112,5
+Region - Americas, Subregion - South America, Population - 17643060, Area - 276841,0, Latlng -  -2,0 -77,5
+Region - Africa, Subregion - Northern Africa, Population - 36910558, Area - 446550,0, Latlng -  32,0 -5,0
+Region - Americas, Subregion - Caribbean, Population - 110947, Area - 389,0, Latlng -  13,25 -61,2
+Region - Americas, Subregion - Caribbean, Population - 11326616, Area - 109884,0, Latlng -  21,5 -80,0
+Region - Europe, Subregion - Western Europe, Population - 38137, Area - 160,0, Latlng -  47,26666666 9,53333333
+Region - Americas, Subregion - Caribbean, Population - 393248, Area - 13943,0, Latlng -  24,25 -76,0
+Region - Americas, Subregion - North America, Population - 38005238, Area - 9984670,0, Latlng -  60,0 -95,0
+Region - Oceania, Subregion - Melanesia, Population - 896444, Area - 18272,0, Latlng -  -18,0 175,0
+Region - Asia, Subregion - Western Asia, Population - 34813867, Area - 2149690,0, Latlng -  25,0 45,0
+Region - Americas, Subregion - Caribbean, Population - 65720, Area - 264,0, Latlng -  19,5 -80,5
+Region - Europe, Subregion - Northern Europe, Population - 2794700, Area - 65300,0, Latlng -  56,0 24,0
+Region - Americas, Subregion - Caribbean, Population - 25987, Area - 328,0, Latlng -  12,18 -68,25
+Region - Europe, Subregion - Northern Europe, Population - 4994724, Area - 70273,0, Latlng -  53,0 -8,0
+Region - Americas, Subregion - South America, Population - 19116209, Area - 756102,0, Latlng -  -30,0 -71,0
+Region - Asia, Subregion - Central Asia, Population - 6031187, Area - 488100,0, Latlng -  40,0 60,0
+Region - Asia, Subregion - South-Eastern Asia, Population - 54409794, Area - 676578,0, Latlng -  22,0 98,0
+Region - Asia, Subregion - Western Asia, Population - 29825968, Area - 527968,0, Latlng -  15,0 48,0
+Region - Africa, Subregion - Western Africa, Population - 53192, Area - 394,0, Latlng -  -15,95 -5,72
+Region - Africa, Subregion - Middle Africa, Population - 219161, Area - 964,0, Latlng -  1,0 7,0
+Region - Americas, Subregion - Central America, Population - 16858333, Area - 108889,0, Latlng -  15,5 -90,25
+Region - Asia, Subregion - South-Eastern Asia, Population - 5685807, Area - 710,0, Latlng -  1,36666666 103,8
+Region - Americas, Subregion - South America, Population - 28435943, Area - 916445,0, Latlng -  8,0 -66,0
+Region - Africa, Subregion - Eastern Africa, Population - 869595, Area - 1862,0, Latlng -  -12,16666666 44,25
+Region - Africa, Subregion - Northern Africa, Population - 510713, Area - 266000,0, Latlng -  24,5 -13,0
+Region - Africa, Subregion - Southern Africa, Population - 2540916, Area - 825615,0, Latlng -  -22,0 17,0
+Region - Asia, Subregion - South-Eastern Asia, Population - 1318442, Area - 14874,0, Latlng -  -8,83333333 125,91666666
+Region - Europe, Subregion - Southeast Europe, Population - 3280815, Area - 51209,0, Latlng -  44,0 18,0
+Region - Africa, Subregion - Western Africa, Population - 555988, Area - 4033,0, Latlng -  16,0 -24,0
+Region - Asia, Subregion - Eastern Asia, Population - 7500700, Area - 1104,0, Latlng -  22,267 114,188
+Region - Europe, Subregion - Eastern Europe, Population - 2617820, Area - 33846,0, Latlng -  47,0 29,0
+Region - Asia, Subregion - South-Eastern Asia, Population - 109581085, Area - 342353,0, Latlng -  13,0 122,0
+Region - Americas, Subregion - Caribbean, Population - 400132, Area - 1628,0, Latlng -  16,25 -61,583333
+Region - Africa, Subregion - Southern Africa, Population - 14862927, Area - 390757,0, Latlng -  -20,0 30,0
+Region - Americas, Subregion - Caribbean, Population - 112519, Area - 344,0, Latlng -  12,11666666 -61,66666666
+Region - Europe, Subregion - Northern Europe, Population - 85032, Area - 572,0, Latlng -  54,25 -4,5
+Region - Africa, Subregion - Eastern Africa, Population - 59734213, Area - 945087,0, Latlng -  -6,0 35,0
+Region - Africa, Subregion - Eastern Africa, Population - 98462, Area - 452,0, Latlng -  -4,58333333 55,66666666
+Region - Europe, Subregion - Western Europe, Population - 16655799, Area - 41850,0, Latlng -  52,5 5,75
+Region - Americas, Subregion - South America, Population - 7132530, Area - 406752,0, Latlng -  -23,0 -58,0
+Region - Europe, Subregion - Southern Europe, Population - 33938, Area - 61,0, Latlng -  43,76666666 12,41666666
+Region - Europe, Subregion - Southeast Europe, Population - 6927288, Area - 110879,0, Latlng -  43,0 25,0
+Region - Americas, Subregion - Caribbean, Population - 106290, Area - 347,0, Latlng -  18,35 -64,933333
+Region - Africa, Subregion - Northern Africa, Population - 11818618, Area - 163610,0, Latlng -  34,0 9,0
+Region - Europe, Subregion - Northern Europe, Population - 366425, Area - 103000,0, Latlng -  65,0 -18,0
+Region - Africa, Subregion - Middle Africa, Population - 108407721, Area - 2344858,0, Latlng -  0,0 25,0
+Region - Americas, Subregion - Caribbean, Population - 106766, Area - 180,0, Latlng -  12,5 -69,96666666
+Region - Asia, Subregion - South-Eastern Asia, Population - 273523621, Area - 1904569,0, Latlng -  -5,0 120,0
+Region - Americas, Subregion - Central America, Population - 6486201, Area - 21041,0, Latlng -  13,83333333 -88,91666666
+Region - Europe, Subregion - Central Europe, Population - 5458827, Area - 49037,0, Latlng -  48,66666666 19,5
+Region - Europe, Subregion - Northern Europe, Population - 10353442, Area - 450295,0, Latlng -  62,0 15,0
+Region - Asia, Subregion - South-Eastern Asia, Population - 7275556, Area - 236800,0, Latlng -  18,0 105,0
+Region - Africa, Subregion - Western Africa, Population - 2416664, Area - 10689,0, Latlng -  13,46666666 -16,56666666
+Region - Asia, Subregion - Western Asia, Population - 9216900, Area - 20770,0, Latlng -  31,47 35,13
+Region - Europe, Subregion - Northern Europe, Population - 2562, Area - -1,0, Latlng -  78,0 20,0
+Region - Europe, Subregion - Southeast Europe, Population - 621718, Area - 13812,0, Latlng -  42,5 19,3
+Region - Africa, Subregion - Eastern Africa, Population - 15893219, Area - 637657,0, Latlng -  10,0 49,0
+Region - Africa, Subregion - Eastern Africa, Population - 840974, Area - 2511,0, Latlng -  -21,15 55,5
+Region - Asia, Subregion - Southern Asia, Population - 21919000, Area - 65610,0, Latlng -  7,0 81,0
+Region - Europe, Subregion - Western Europe, Population - 83240525, Area - 357114,0, Latlng -  51,0 9,0
+Region - Europe, Subregion - Southeast Europe, Population - 6908224, Area - 88361,0, Latlng -  44,0 21,0
+Region - Asia, Subregion - Eastern Asia, Population - 649342, Area - 30,0, Latlng -  22,16666666 113,55
+Region - Americas, Subregion - South America, Population - 786559, Area - 214969,0, Latlng -  5,0 -59,0
+Region - Americas, Subregion - South America, Population - 586634, Area - 163820,0, Latlng -  4,0 -56,0
+Region - Africa, Subregion - Southern Africa, Population - 2142252, Area - 30355,0, Latlng -  -29,5 28,5
+Region - Europe, Subregion - Northern Europe, Population - 48865, Area - 1393,0, Latlng -  62,0 -7,0
+Region - Americas, Subregion - Central America, Population - 9904608, Area - 112492,0, Latlng -  15,0 -86,5
+Region - Asia, Subregion - Western Asia, Population - 4803269, Area - 6220,0, Latlng -  31,9 35,2
+Region - Oceania, Subregion - Melanesia, Population - 8947027, Area - 462840,0, Latlng -  -6,0 147,0
+Region - Africa, Subregion - Northern Africa, Population - 102334403, Area - 1002450,0, Latlng -  27,0 30,0
+Region - Europe, Subregion - Southern Europe, Population - 47351567, Area - 505992,0, Latlng -  40,0 -4,0
+Region - Africa, Subregion - Eastern Africa, Population - 5352000, Area - 117600,0, Latlng -  15,0 39,0
+Region - Africa, Subregion - Eastern Africa, Population - 31255435, Area - 801590,0, Latlng -  -18,25 35,0
+Region - Asia, Subregion - Eastern Asia, Population - 25778815, Area - 120538,0, Latlng -  40,0 127,0
+Region - Africa, Subregion - Western Africa, Population - 16743930, Area - 196722,0, Latlng -  14,0 -14,0
+Region - Oceania, Subregion - Polynesia, Population - 1470, Area - 260,0, Latlng -  -19,03333333 -169,86666666
+Region - Oceania, Subregion - Micronesia, Population - 115021, Area - 702,0, Latlng -  6,91666666 158,25
+Region - Asia, Subregion - South-Eastern Asia, Population - 16718971, Area - 181035,0, Latlng -  13,0 105,0
+Region - Africa, Subregion - Eastern Africa, Population - 988002, Area - 23200,0, Latlng -  11,5 43,0
+Region - Africa, Subregion - Western Africa, Population - 31072945, Area - 238533,0, Latlng -  8,0 -2,0
+Region - Antarctic, Subregion - , Population - 0, Area - 49,0, Latlng -  -54,43333333 3,4
+Region - Europe, Subregion - Eastern Europe, Population - 9398861, Area - 207600,0, Latlng -  53,0 28,0
+Region - Africa, Subregion - Western Africa, Population - 12123198, Area - 112622,0, Latlng -  9,5 2,25
+Region - Oceania, Subregion - Australia and New Zealand, Population - 544, Area - 14,0, Latlng -  -12,5 96,83333333
+Region - Europe, Subregion - Northern Europe, Population - 67215293, Area - 242900,0, Latlng -  54,0 -2,0
+Region - Europe, Subregion - Northern Europe, Population - 29458, Area - 1580,0, Latlng -  60,116667 19,9
+Region - Africa, Subregion - Western Africa, Population - 20903278, Area - 272967,0, Latlng -  13,0 -2,0
+Region - Oceania, Subregion - Melanesia, Population - 686878, Area - 28896,0, Latlng -  -8,0 159,0
+Region - Americas, Subregion - South America, Population - 2563, Area - 12173,0, Latlng -  -51,75 -59,0
+Region - Europe, Subregion - Northern Europe, Population - 62999, Area - 78,0, Latlng -  49,46666666 -2,58333333
+Region - Americas, Subregion - Central America, Population - 5094114, Area - 51100,0, Latlng -  10,0 -84,0
+Region - Europe, Subregion - Southeast Europe, Population - 2837743, Area - 28748,0, Latlng -  41,0 20,0
+Region - Oceania, Subregion - Australia and New Zealand, Population - 2072, Area - 135,0, Latlng -  -10,5 105,66666666
+Region - Europe, Subregion - Southern Europe, Population - 10715549, Area - 131990,0, Latlng -  39,0 22,0
+Region - Europe, Subregion - Eastern Europe, Population - 44134693, Area - 603500,0, Latlng -  49,0 32,0
+Region - Americas, Subregion - North America, Population - 56367, Area - 2166086,0, Latlng -  72,0 -40,0
+Region - Europe, Subregion - Southeast Europe, Population - 2077132, Area - 25713,0, Latlng -  41,83333333 22,0
+Region - Africa, Subregion - Western Africa, Population - 26378275, Area - 322463,0, Latlng -  8,0 -5,0
+Region - Asia, Subregion - Western Asia, Population - 17500657, Area - 185180,0, Latlng -  35,0 38,0
+Region - Europe, Subregion - Central Europe, Population - 10698896, Area - 78865,0, Latlng -  49,75 15,5
+Region - Africa, Subregion - Southern Africa, Population - 2351625, Area - 582000,0, Latlng -  -22,0 24,0
+Region - Oceania, Subregion - Polynesia, Population - 55197, Area - 199,0, Latlng -  -14,33333333 -170,0
+Region - Americas, Subregion - North America, Population - 128932753, Area - 1964375,0, Latlng -  23,0 -102,0
+Region - Europe, Subregion - Central Europe, Population - 8917205, Area - 83871,0, Latlng -  47,33333333 13,33333333
+Region - Americas, Subregion - North America, Population - 63903, Area - 54,0, Latlng -  32,33333333 -64,75
+Region - Asia, Subregion - Western Asia, Population - 1701583, Area - 765,0, Latlng -  26,0 50,55
+Region - Oceania, Subregion - Micronesia, Population - 10834, Area - 21,0, Latlng -  -0,53333333 166,91666666
+Region - Africa, Subregion - Western Africa, Population - 24206636, Area - 1267000,0, Latlng -  16,0 8,0
+Region - Africa, Subregion - Middle Africa, Population - 32866268, Area - 1246700,0, Latlng -  -12,5 18,5
+Region - Americas, Subregion - Caribbean, Population - 97928, Area - 442,0, Latlng -  17,05 -61,8
+Region - Americas, Subregion - Caribbean, Population - 4922, Area - 102,0, Latlng -  16,75 -62,2
+Region - Asia, Subregion - Eastern Asia, Population - 51780579, Area - 100210,0, Latlng -  37,0 127,5
+Region - Asia, Subregion - Eastern Asia, Population - 23503349, Area - 36193,0, Latlng -  23,5 121,0
+Region - Americas, Subregion - Caribbean, Population - 287371, Area - 430,0, Latlng -  13,16666666 -59,53333333
+Region - Americas, Subregion - Caribbean, Population - 155014, Area - 444,0, Latlng -  12,116667 -68,933333
+Region - Asia, Subregion - Southern Asia, Population - 540542, Area - 300,0, Latlng -  3,25 73,0
+Region - Antarctic, Subregion - , Population - 0, Area - 412,0, Latlng -  -53,1 72,51666666
+Region - Americas, Subregion - Caribbean, Population - 71991, Area - 751,0, Latlng -  15,41666666 -61,33333333
+Region - Africa, Subregion - Western Africa, Population - 4649660, Area - 1030700,0, Latlng -  20,0 -12,0
+Region - Asia, Subregion - Western Asia, Population - 3714000, Area - 69700,0, Latlng -  42,0 43,5
+Region - Africa, Subregion - Western Africa, Population - 13132792, Area - 245857,0, Latlng -  11,0 -10,0
+Region - Africa, Subregion - Western Africa, Population - 5057677, Area - 111369,0, Latlng -  6,5 -9,5
+Region - Africa, Subregion - Western Africa, Population - 1967998, Area - 36125,0, Latlng -  12,0 -15,0
+Region - Europe, Subregion - Western Europe, Population - 8654622, Area - 41284,0, Latlng -  47,0 8,0
+Region - Europe, Subregion - Southern Europe, Population - 1207361, Area - 9251,0, Latlng -  35,0 33,0
+Region - Africa, Subregion - Eastern Africa, Population - 3000, Area - 60,0, Latlng -  -6,0 71,5
+Region - Europe, Subregion - Northern Europe, Population - 5530719, Area - 338424,0, Latlng -  64,0 26,0
+Region - Europe, Subregion - Western Europe, Population - 11555997, Area - 30528,0, Latlng -  50,83333333 4,0
+Region - Asia, Subregion - Western Asia, Population - 9890400, Area - 83600,0, Latlng -  24,0 54,0
+Region - Africa, Subregion - Western Africa, Population - 20250834, Area - 1240192,0, Latlng -  17,0 -4,0
+Region - Africa, Subregion - Middle Africa, Population - 16425859, Area - 1284000,0, Latlng -  15,0 19,0
+Region - Africa, Subregion - Middle Africa, Population - 1402985, Area - 28051,0, Latlng -  2,0 10,0
+Region - Europe, Subregion - Southern Europe, Population - 451, Area - 0,44, Latlng -  41,9 12,45
+Region - Asia, Subregion - Western Asia, Population - 40222503, Area - 438317,0, Latlng -  33,0 44,0
+Region - Oceania, Subregion - Polynesia, Population - 1411, Area - 12,0, Latlng -  -9,0 -172,0
+Region - Oceania, Subregion - Polynesia, Population - 105697, Area - 747,0, Latlng -  -20,0 -175,0
+Region - Oceania, Subregion - Micronesia, Population - 57557, Area - 464,0, Latlng -  15,2 145,75
+Region - Asia, Subregion - Western Asia, Population - 2881060, Area - 11586,0, Latlng -  25,5 51,25
+Region - Americas, Subregion - South America, Population - 3473727, Area - 181034,0, Latlng -  -33,0 -56,0
+Region - Asia, Subregion - Southern Asia, Population - 1380004385, Area - 3287590,0, Latlng -  20,0 77,0
+Region - Oceania, Subregion - Australia and New Zealand, Population - 2302, Area - 36,0, Latlng -  -29,03333333 167,95
+Region - Asia, Subregion - Western Asia, Population - 5106622, Area - 309500,0, Latlng -  21,0 57,0
+Region - Americas, Subregion - South America, Population - 50882884, Area - 1141748,0, Latlng -  4,0 -72,0
+Region - Africa, Subregion - Middle Africa, Population - 26545864, Area - 475442,0, Latlng -  6,0 12,0
+Region - Africa, Subregion - Eastern Africa, Population - 114963583, Area - 1104300,0, Latlng -  8,0 38,0
+Region - Africa, Subregion - Northern Africa, Population - 43849269, Area - 1886068,0, Latlng -  15,0 30,0
+Region - Africa, Subregion - Middle Africa, Population - 2225728, Area - 267668,0, Latlng -  -1,0 11,75
+Region - Americas, Subregion - South America, Population - 45376763, Area - 2780400,0, Latlng -  -34,0 -64,0
+Region - Asia, Subregion - Eastern Asia, Population - 125836021, Area - 377930,0, Latlng -  36,0 138,0
+Region - Europe, Subregion - Central Europe, Population - 9749763, Area - 93028,0, Latlng -  47,0 20,0
+Region - Europe, Subregion - Southeast Europe, Population - 4047200, Area - 56594,0, Latlng -  45,16666666 15,5
+Region - Asia, Subregion - Central Asia, Population - 6591600, Area - 199951,0, Latlng -  41,0 75,0
+Region - Europe, Subregion - Southern Europe, Population - 10305564, Area - 92090,0, Latlng -  39,5 -8,0
+Region - Asia, Subregion - South-Eastern Asia, Population - 97338583, Area - 331212,0, Latlng -  16,16666666 107,83333333
+Region - Europe, Subregion - Northern Europe, Population - 5379475, Area - 323802,0, Latlng -  62,0 10,0
+Region - Europe, Subregion - Southern Europe, Population - 59554023, Area - 301336,0, Latlng -  42,83333333 12,83333333
+Region - Americas, Subregion - Caribbean, Population - 40812, Area - 34,0, Latlng -  18,033333 -63,05
+Region - Americas, Subregion - Caribbean, Population - 38659, Area - 53,0, Latlng -  18,08333333 -63,95
+Region - Asia, Subregion - Western Asia, Population - 10203140, Area - 89342,0, Latlng -  31,0 36,0
+Region - Oceania, Subregion - Polynesia, Population - 280904, Area - 4167,0, Latlng -  -15,0 -140,0
+Region - Africa, Subregion - Eastern Africa, Population - 12952209, Area - 26338,0, Latlng -  -2,0 30,0
+Region - Asia, Subregion - South-Eastern Asia, Population - 69799978, Area - 513120,0, Latlng -  15,0 100,0
+Region - Europe, Subregion - Northern Europe, Population - 5831404, Area - 43094,0, Latlng -  56,0 10,0
+Region - Oceania, Subregion - Polynesia, Population - 11792, Area - 26,0, Latlng -  -8,0 178,0
+Region - Oceania, Subregion - Polynesia, Population - 56, Area - 47,0, Latlng -  -25,06666666 -130,1
+Region - Africa, Subregion - Eastern Africa, Population - 45741000, Area - 241550,0, Latlng -  1,0 32,0
+Region - Africa, Subregion - Western Africa, Population - 8278737, Area - 56785,0, Latlng -  8,0 1,16666666
+Region - Asia, Subregion - Central Asia, Population - 9537642, Area - 143100,0, Latlng -  39,0 71,0
+Region - Americas, Subregion - South America, Population - 254541, Area - 83534,0, Latlng -  4,0 -53,0
+Region - Americas, Subregion - Caribbean, Population - 183629, Area - 616,0, Latlng -  13,88333333 -60,96666666
+Region - Africa, Subregion - Southern Africa, Population - 59308690, Area - 1221037,0, Latlng -  -29,0 24,0
+Region - Asia, Subregion - Western Asia, Population - 2963234, Area - 29743,0, Latlng -  40,0 45,0
+Region - Africa, Subregion - Western Africa, Population - 206139587, Area - 923768,0, Latlng -  10,0 8,0
+Region - Africa, Subregion - Middle Africa, Population - 11193729, Area - 619745,0, Latlng -  7,0 30,0
+Region - Asia, Subregion - Southern Asia, Population - 40218234, Area - 652230,0, Latlng -  33,0 65,0
+Region - Europe, Subregion - Central Europe, Population - 37950802, Area - 312679,0, Latlng -  52,0 20,0
+Region - Antarctic, Subregion - , Population - 1000, Area - 14000000, Latlng -  -90,0 0,0
+Region - Asia, Subregion - Western Asia, Population - 6825442, Area - 10452,0, Latlng -  33,83333333 35,83333333
+Region - Oceania, Subregion - Micronesia, Population - 18092, Area - 459,0, Latlng -  7,5 134,5
+Region - Oceania, Subregion - Melanesia, Population - 271960, Area - 18575,0, Latlng -  -21,5 165,5
+Region - Africa, Subregion - Eastern Africa, Population - 11890781, Area - 27834,0, Latlng -  -3,5 30,0
+Region - Africa, Subregion - Northern Africa, Population - 44700000, Area - 2381741,0, Latlng -  28,0 3,0
+Region - Americas, Subregion - North America, Population - 300, Area - 34,2, Latlng -  19,3 166,633333
+Region - Americas, Subregion - South America, Population - 32971846, Area - 1285216,0, Latlng -  -10,0 -76,0
+Region - Europe, Subregion - Northern Europe, Population - 1331057, Area - 45227,0, Latlng -  59,0 26,0
+Region - Antarctic, Subregion - , Population - 30, Area - 3903,0, Latlng -  -54,5 -37,0
+Region - Oceania, Subregion - Melanesia, Population - 307150, Area - 12189,0, Latlng -  -16,0 167,0
+Region - Asia, Subregion - Southern Asia, Population - 83992953, Area - 1648195,0, Latlng -  32,0 53,0
+Region - Asia, Subregion - Eastern Asia, Population - 1402112000, Area - 9706961,0, Latlng -  35,0 105,0
+Region - Africa, Subregion - Middle Africa, Population - 5657000, Area - 342000,0, Latlng -  -1,0 15,0
+Region - Oceania, Subregion - Australia and New Zealand, Population - 25687041, Area - 7692024,0, Latlng -  -27,0 133,0
+Region - Americas, Subregion - Caribbean, Population - 38718, Area - 948,0, Latlng -  21,75 -71,58333333
+Region - Americas, Subregion - Caribbean, Population - 1399491, Area - 5130,0, Latlng -  11,0 -61,0
+Region - Americas, Subregion - Caribbean, Population - 13452, Area - 91,0, Latlng -  18,25 -63,16666666
+Region - Americas, Subregion - Caribbean, Population - 11402533, Area - 27750,0, Latlng -  19,0 -72,41666666
+Region - Asia, Subregion - Central Asia, Population - 34232050, Area - 447400,0, Latlng -  41,0 64,0
+Region - Americas, Subregion - Caribbean, Population - 10847904, Area - 48671,0, Latlng -  19,0 -70,66666666
+Region - Africa, Subregion - Eastern Africa, Population - 226915, Area - 374,0, Latlng -  -12,83333333 45,16666666
+Region - Asia, Subregion - Eastern Asia, Population - 3278292, Area - 1564110,0, Latlng -  46,0 105,0
+Region - Americas, Subregion - North America, Population - 6069, Area - 242,0, Latlng -  46,83333333 -56,33333333
+Region - Oceania, Subregion - Polynesia, Population - 198410, Area - 2842,0, Latlng -  -13,58333333 -172,33333333
+Region - Americas, Subregion - Central America, Population - 6624554, Area - 130373,0, Latlng -  13,0 -85,0
+Region - Asia, Subregion - Southern Asia, Population - 771612, Area - 38394,0, Latlng -  27,5 90,5
